@@ -31,4 +31,4 @@ This folder contains R scripts used to generate data, implement comparison metho
    - `Support_Info_sec3_Figure.R`, `Support_Info_sec3_Table.R`  
      - Run the parameter tuning for proposed method in real-data analysis and generate figures and tables for Section 3 of the Supporting Information.
    - `Support_info_sec4_Figure.R`, `Support_info_sec4_simulation.R`  
-     - Run the additional simulations and create the corresponding figures for Section 4 of the Supporting Information.
+     - Run the additional simulations (conformal prediction) and create the corresponding figures for Section 4 of the Supporting Information.
